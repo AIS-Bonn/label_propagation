@@ -12,7 +12,7 @@ https://arxiv.org/abs/2604.22992
 
 The dataset used in the paper can be downloaded here:
 
-**[Download dataset](https://TODO)**
+**[Download dataset [Zenodo]](https://zenodo.org/records/21384769)**
 
 Place the extracted contents under `datasets/` so each object class has its own subdirectory with `train/` and `valid/` splits.
 
